@@ -4,5 +4,6 @@
 
 Own game project with use Unity engine 2020v. and C# in VS
 
+FPS Shoter
 Gameplay link: https://youtu.be/wF1GMU11w-4
-FPS Shooter
+Open source script files. 
